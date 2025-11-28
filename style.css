@@ -31,7 +31,7 @@ div{
     width: 500;
     border: 5px solid black;
 
- }
+ } */
   
 
  span{
@@ -39,9 +39,11 @@ div{
  }
 
 
- .container{
+ .container0{
     border: 2px solid black;
-    width: 730px;
+    margin: 50px;
+    padding: 20px;
+    width: 750px;
  }
 
  .box1{
@@ -77,29 +79,26 @@ div{
     height: 340px;
     width: 900px;
     padding: 20px;
+    margin: 50px;
 }
 
 .image{
     width: 300px;
     float: left;
     margin: 10px;
-} */
+}
 
 
-.container{
+.container1{
     background-color: pink;
     border: 2px solid black;
     height: 340px;
     width: 650px;
     padding: 20px;
+    margin: 50px;
 }
 
-.image{
+.image1{
     width: 300px;
     float: left;
-    margin: 10px;
-
-    .footer{
-        clear: both;
-        background-color: lightgray;;
-    }
+    margin: 10px;}
