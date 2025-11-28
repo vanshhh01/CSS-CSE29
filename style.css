@@ -39,7 +39,7 @@ div{
  } */
 
 
- .container{
+ /* .container{
     border: 2px solid black;
     width: 730px;
  }
@@ -68,4 +68,19 @@ div{
 .box{
     display: inline-block;
     align-items: center;
+} */
+
+
+.container{
+    background-color: pink;
+    border: 2px solid black;
+    height: 340px;
+    width: 900px;
+    padding: 20px;
+}
+
+.image{
+    width: 300px;
+    float: left;
+    margin: 10px;
 }
