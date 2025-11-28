@@ -1,4 +1,4 @@
-p{
+/* p{
     color: red;
     font-size: 25px;
 }
@@ -21,7 +21,7 @@ div{
 
 
 
- /* h2{
+ h2{
     text-align: center;
 
  }
@@ -31,7 +31,41 @@ div{
     width: 500;
     border: 5px solid black;
 
- } */
+ }
   
 
- 
+ span{
+    display: block;
+ } */
+
+
+ .container{
+    border: 2px solid black;
+    width: 730px;
+ }
+
+ .box1{
+    background-color: rgb(143, 143, 36);
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+ }
+
+ .box2{
+    background-color: rgb(133, 35, 35);
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+ }
+
+ .box3{
+    background-color: rgb(150, 196, 219);
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+ }
+
+.box{
+    display: inline-block;
+    align-items: center;
+}
